@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Dubloon
-//
-//  Created by Tyler Aguilar on 11/24/21.
-//
-
 import UIKit
 
 @main

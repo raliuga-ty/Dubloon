@@ -30,3 +30,4 @@ class DubloonUITestsLaunchTests: XCTestCase {
         add(attachment)
     }
 }
+
